@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../Learn FE"
+		},
+		{
+			"path": "../../../Project_F5/WebClothesF5_frontend"
+		},
+		{
+			"path": "../../../NiceAdmin"
+		},
+		{
+			"path": "../../../DaoVanKhai"
+		},
+		{
+			"path": "../../../UDTT"
+		},
+		{
+			"path": "../../../FoxyStore/Font"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DaoVanKhai"
+	}
+}
